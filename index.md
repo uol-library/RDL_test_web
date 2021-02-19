@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Research Data Management at the University of Leeds
 
 You can use the [editor on GitHub](https://github.com/uol-library/RDL_test_web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
