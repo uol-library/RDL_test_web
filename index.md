@@ -1,6 +1,6 @@
 ## Welcome to Research Data Management at the University of Leeds
 
-[Preparing your dataset for the repository - metadata template](url)
+[Preparing your dataset for the repository - metadata template](Repository_metadata.md)
 
 [Link](url) and ![Image](src)
 ```
