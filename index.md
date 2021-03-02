@@ -2,8 +2,7 @@
 
 [Preparing your dataset for the repository - metadata template](repository/repository_metadata.html)
 
-[Link](url) and ![Image](src)
-```
+[Consent form wording for data repository and data sharing](safeguarding/consent.html)
 
 
 
