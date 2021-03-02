@@ -4,6 +4,8 @@
 
 The Data Deposit Template is an excel file containing 8 sheets:
 
+For you to complete
+
 1 | Datasets | Blank template to record metadata for your data sets.
 2 | Files | Blank template to record metadata for your files.
 
@@ -18,3 +20,17 @@ Advice and Guidance
 
 Add the information about your dataset and its files in the first two sheets
 
+1. Datasets
+
+* Mandatory fields are highlighted in yellow.
+* Only the more commonly used metadata fields are displayed.
+* There are other fields in hidden rows which can be unhidden if needed.
+* Normally used for a single dataset with one or more files.
+* Supports the preparation of metadata for more than one dataset at a time.
+
+2. Files
+
+* Records the metadata for the files and related documents that make up the dataset – one file per row in the sheet.
+* Mandatory fields are highlighted in yellow
+* Only Filename and Content Type are needed *(though Title and Description may be helpful).*
+* Where there is more than one dataset make sure that the Dataset Number is included for all files.
